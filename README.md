@@ -75,7 +75,7 @@ TotalpaySdk.instance.config(
 
 To report a specific issue or feature request, open a [new issue](https://github.com/TotalpayApi/TotalPay-flutter-sdk/issues).
 
-Or write a direct letter to the [support@totalpay.global](mailto:support@totalpay.global).
+Or write a direct letter to the [info@totalpay.global](mailto:info@totalpay.global).
 
 ## License
 
