@@ -48,7 +48,7 @@ In the dependencies: section of your pubspec.yaml, add the following lines:
 
 dependencies:
   intl: ^0.17.0
-  totalpay_sdk: any
+  totalpay_sdk: ^1.0.0
   
 ```
 
