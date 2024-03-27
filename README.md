@@ -40,7 +40,7 @@ allprojects {
 
 Setup iOS iOS does not required any setup just install flutter plugin where the iOS framewework is embedded within the plugin in iOS plaform directory. If you need to enable Apple Pay in your app it can be enable by following the instructions at [Link](https://github.com/TotalpayApi/TotalPay-flutter-sdk/wiki/TotalPay-ApplePay-Payment)
 
-## Installting Flutter Plugin
+## Installing Flutter Plugin
 
 In the dependencies: section of your pubspec.yaml, add the following lines:
 
@@ -48,7 +48,7 @@ In the dependencies: section of your pubspec.yaml, add the following lines:
 
 dependencies:
   intl: ^0.17.0
-  totalpay_sdk: any
+  montypay_sdk: any
   
 ```
 
@@ -88,7 +88,5 @@ Website: [https://totalpay.global](https://totalpay.global)
 Email: info@totalpay.global
 
 Address: TotalPay Payment Services Provicer LLC - UAE 
-
-
 
 © 2022 TotalPay. All rights reserved
